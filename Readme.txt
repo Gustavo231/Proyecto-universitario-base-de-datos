@@ -1,6 +1,6 @@
 Este Proyecto es una base de datos de una distribuidora los integrantes somos 
 
- Universidad OYM   Seccion:0541 Materia: Base de datos 
+ Universidad OYM   Seccion: 0541  Materia: Base de datos 
 
  Nombre: Gustavo Fitzgerald Ortega Almonte   Matricula: 16-MIIN-1-032 Seccion: 0541 
  Nombre: Bryan Eduardo Rodriguez Diaz        Matricula: 16-MIIN-1-031 Seccion: 0541 
